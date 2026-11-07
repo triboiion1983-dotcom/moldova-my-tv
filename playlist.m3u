@@ -34,13 +34,8 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 #EXTINF:-1 tvg-id="ZonaM.md@SD" group-title="Молдова",Zona M
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8
+
 # ===== КИНОКАНАЛЫ =====
-#EXTINF:-1 group-title="Кино | Классика",Мосфильм Золотая коллекция
-http://stream.mcquack.net/369/index.m3u8
-#EXTINF:-1 group-title="Кино | Классика",Мосфильм Золотая коллекция (2)
-http://185.121.1.163:8083/Mosfilm/index.m3u8
-#EXTINF:-1 group-title="Кино | Классика",Победа
-https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Кино | Русское",Дом Кино
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 group-title="Кино | Русское",Дом Кино (2)
@@ -80,7 +75,7 @@ http://stream.mcquack.net/202/index.m3u8
 #EXTINF:-1 group-title="Кино | Премиум",Viju+ Megahit
 http://stream.mcquack.net/200/index.m3u8
 #EXTINF:-1 group-title="Кино | Премиум",Кинопремьера
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u
 #EXTINF:-1 group-title="Кино | Премиум",Кинохит
 http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 group-title="Кино | Премиум",Кино ТВ
@@ -93,8 +88,6 @@ https://stream8.cinerama.uz/1057/index.m3u8
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино | Семейное",Киносемья
 https://stream8.cinerama.uz/1234/index.m3u8
-#EXTINF:-1 group-title="Кино | Русское",Родное кино
-https://stream8.cinerama.uz/1052/index.m3u8
 #EXTINF:-1 group-title="Кино | Русское",Наше новое кино
 https://stream8.cinerama.uz/1051/index.m3u8
 #EXTINF:-1 group-title="Кино | Русское",Советское кино
@@ -105,8 +98,6 @@ https://stream8.cinerama.uz/1443/index.m3u8
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Кино | Международное",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Кино | Международное",Индийское кино
-https://stream8.cinerama.uz/1060/index.m3u8
 #EXTINF:-1 group-title="Кино | Жанровое",.black
 http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 group-title="Кино | Жанровое",.Red
@@ -119,8 +110,8 @@ http://stream.mcquack.net/278/index.m3u8
 http://stream.mcquack.net/214/index.m3u8
 #EXTINF:-1 group-title="Кино | Жанровое",Шокирующее
 http://stream.mcquack.net/75/index.m3u8
-#EXTINF:-1 group-title="Кино | Жанровое",Классика Кино
-https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
+
+# ===== СЕРИАЛЫ =====
 #EXTINF:-1 group-title="Сериалы",Киносерия
 https://stream8.cinerama.uz/1235/index.m3u8
 #EXTINF:-1 group-title="Сериалы",Русский детектив

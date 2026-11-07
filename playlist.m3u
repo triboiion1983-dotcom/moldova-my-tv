@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 group-title="Moldova",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
@@ -6,11 +7,11 @@ https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c04
 #EXTINF:-1 group-title="Moldova",Moldova TV
 https://moldovatv.ro/live-tv/live.m3u8
 #EXTINF:-1 group-title="Moldova",Noroc TV
-https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 #EXTINF:-1 group-title="Moldova",PRO TV Chisinau
-https://stream.protv.md/live/sursa-1/index.m3u8
+https://hls.protv.md/hls/protv.m3u8
 #EXTINF:-1 group-title="Moldova",Rlive TV
-https://realitatealive.md/tv/rlive.m3u8
+https://hls.rlive.md/chanel/tv/rlive.m3u8
 #EXTINF:-1 group-title="Moldova",Sor TV
 http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 group-title="Moldova",Tezaur TV
@@ -18,8 +19,8 @@ https://tezaurtv.md/stream/index.m3u8
 #EXTINF:-1 group-title="Moldova",TSV
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 group-title="Moldova",TVR Moldova
-https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 #EXTINF:-1 group-title="Moldova",Vocea Basarabiei
-https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
+https://storage.voceabasarabiei.md/vocea/vocea.m3u8
 #EXTINF:-1 group-title="Moldova",Busuioc TV
-https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
+https://busuioctv.iforward.eu/hls/busuioc.m3u8

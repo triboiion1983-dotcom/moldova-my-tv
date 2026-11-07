@@ -1,33 +1,139 @@
 #EXTM3U x-tvg-url="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-id="moldova-1" group-title="Moldova",Moldova 1
+# ===== МОЛДАВСКИЕ КАНАЛЫ =====
+#EXTINF:-1 tvg-id="moldova-1" group-title="Молдова",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
-#EXTINF:-1 tvg-id="Moldova2.md@SD" group-title="Moldova",Moldova 2
+#EXTINF:-1 tvg-id="Moldova2.md@SD" group-title="Молдова",Moldova 2
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
-#EXTINF:-1 tvg-id="MoldovaTV.md@SD" group-title="Moldova",Moldova TV
+#EXTINF:-1 tvg-id="MoldovaTV.md@SD" group-title="Молдова",Moldova TV
 https://moldovatv.ro/live-tv/live.m3u8
-#EXTINF:-1 tvg-id="NorocTV.md@SD" group-title="Moldova",Noroc TV
-https://live.noroc.tv/noroc/noroc.m3u8
-#EXTINF:-1 tvg-id="RealitateaTV.md@SD" group-title="Moldova",Rlive TV
+#EXTINF:-1 tvg-id="NorocTV.md@SD" group-title="Молдова",Noroc TV
+https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+#EXTINF:-1 tvg-id="PROTVChisinau.md@SD" group-title="Молдова",PRO TV Chisinau
+https://stream.protv.md/live/sursa-1/index.m3u8
+#EXTINF:-1 tvg-id="RealitateaTV.md@SD" group-title="Молдова",Rlive TV
 https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1 tvg-id="SorTV.md@SD" group-title="Moldova",Sor TV
+#EXTINF:-1 tvg-id="SorTV.md@SD" group-title="Молдова",Sor TV
 http://188.237.212.16:8888/live/cameraFeed.m3u8
-#EXTINF:-1 tvg-id="TezaurTV.md@SD" group-title="Moldova",Tezaur TV
+#EXTINF:-1 tvg-id="TezaurTV.md@SD" group-title="Молдова",Tezaur TV
 https://tezaurtv.md/stream/index.m3u8
-#EXTINF:-1 tvg-id="TSV.md@SD" group-title="Moldova",TSV
+#EXTINF:-1 tvg-id="TSV.md@SD" group-title="Молдова",TSV
 https://tsv.md/stream/hls/tsv-online/index.m3u8
-#EXTINF:-1 tvg-id="TVRMoldova.md@SD" group-title="Moldova",TVR Moldova
+#EXTINF:-1 tvg-id="TVRMoldova.md@SD" group-title="Молдова",TVR Moldova
 https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
-#EXTINF:-1 tvg-id="VoceaBasarabieiTV.md@SD" group-title="Moldova",Vocea Basarabiei
+#EXTINF:-1 tvg-id="VoceaBasarabieiTV.md@SD" group-title="Молдова",Vocea Basarabiei
 https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
-#EXTINF:-1 tvg-id="BusuiocTV.md@SD" group-title="Moldova",Busuioc TV
+#EXTINF:-1 tvg-id="BusuiocTV.md@SD" group-title="Молдова",Busuioc TV
 https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
-#EXTINF:-1 tvg-id="N4.md@SD" group-title="Moldova",N4
+#EXTINF:-1 tvg-id="N4.md@SD" group-title="Молдова",N4
 https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
-#EXTINF:-1 tvg-id="tv8-md" group-title="Moldova",TV8
+#EXTINF:-1 tvg-id="tv8-md" group-title="Молдова",TV8
 http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
-#EXTINF:-1 tvg-id="StarTV.md@SD" group-title="Moldova",Star TV
+#EXTINF:-1 tvg-id="StarTV.md@SD" group-title="Молдова",Star TV
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
-#EXTINF:-1 tvg-id="WeSportTV.md@SD" group-title="Moldova",We Sport TV
+#EXTINF:-1 tvg-id="WeSportTV.md@SD" group-title="Молдова",We Sport TV
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
-#EXTINF:-1 tvg-id="ZonaM.md@SD" group-title="Moldova",Zona M
+#EXTINF:-1 tvg-id="ZonaM.md@SD" group-title="Молдова",Zona M
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8
+# ===== КИНОКАНАЛЫ =====
+#EXTINF:-1 group-title="Кино | Классика",Мосфильм Золотая коллекция
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 group-title="Кино | Классика",Мосфильм Золотая коллекция (2)
+http://185.121.1.163:8083/Mosfilm/index.m3u8
+#EXTINF:-1 group-title="Кино | Классика",Победа
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 group-title="Кино | Русское",Дом Кино
+https://streaming.thestream.cyou/live/44.m3u8
+#EXTINF:-1 group-title="Кино | Русское",Дом Кино (2)
+https://stream8.cinerama.uz/1054/index.m3u8
+#EXTINF:-1 group-title="Кино | Русское",Дом Кино International
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="Кино | Русское",Дом Кино Премиум
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="Кино | Комедия",Кинокомедия
+https://stream8.cinerama.uz/1232/index.m3u8
+#EXTINF:-1 group-title="Кино | Комедия",Кинокомедия (2)
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="Кино | Комедия",Viju+ Comedy
+https://stream8.cinerama.uz/1061/index.m3u8
+#EXTINF:-1 group-title="Кино | Комедия",Комедия
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 group-title="Кино | Комедия",Комедийное
+http://stream.mcquack.net/74/index.m3u8
+#EXTINF:-1 group-title="Кино | Премиум",Viju TV1000
+https://stream8.cinerama.uz/1058/index.m3u8
+#EXTINF:-1 group-title="Кино | Премиум",Viju TV1000 (2)
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 group-title="Кино | Премиум",Viju TV1000 Русское
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1 group-title="Кино | Экшн",Viju TV1000 Action
+https://stream8.cinerama.uz/1225/index.m3u8
+#EXTINF:-1 group-title="Кино | Экшн",Viju TV1000 Action (2)
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 group-title="Кино | Экшн",Мужское кино
+https://stream8.cinerama.uz/1237/index.m3u8
+#EXTINF:-1 group-title="Кино | Экшн",FX
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1 group-title="Кино | Экшн",FX Life
+http://stream.mcquack.net/129/index.m3u8
+#EXTINF:-1 group-title="Кино | Премиум",Viju+ Premiere
+http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1 group-title="Кино | Премиум",Viju+ Megahit
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 group-title="Кино | Премиум",Кинопремьера
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="Кино | Премиум",Кинохит
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 group-title="Кино | Премиум",Кино ТВ
+http://176.118.197.101/KinoTvHD/index.m3u8
+#EXTINF:-1 group-title="Кино | Премиум",Киномикс
+https://stream8.cinerama.uz/1233/index.m3u8
+#EXTINF:-1 group-title="Кино | Премиум",Кинопоказ
+https://stream8.cinerama.uz/1057/index.m3u8
+#EXTINF:-1 group-title="Кино | Премиум",Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Кино | Семейное",Киносемья
+https://stream8.cinerama.uz/1234/index.m3u8
+#EXTINF:-1 group-title="Кино | Русское",Родное кино
+https://stream8.cinerama.uz/1052/index.m3u8
+#EXTINF:-1 group-title="Кино | Русское",Наше новое кино
+https://stream8.cinerama.uz/1051/index.m3u8
+#EXTINF:-1 group-title="Кино | Русское",Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 group-title="Кино | Международное",Hollywood
+https://stream8.cinerama.uz/1443/index.m3u8
+#EXTINF:-1 group-title="Кино | Международное",Иллюзион+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="Кино | Международное",Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="Кино | Международное",Индийское кино
+https://stream8.cinerama.uz/1060/index.m3u8
+#EXTINF:-1 group-title="Кино | Жанровое",.black
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 group-title="Кино | Жанровое",.Red
+http://stream.mcquack.net/69/index.m3u8
+#EXTINF:-1 group-title="Кино | Жанровое",.Sci-Fi
+http://stream.mcquack.net/180/index.m3u8
+#EXTINF:-1 group-title="Кино | Жанровое",Киноужас
+http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 group-title="Кино | Жанровое",Остросюжетное
+http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1 group-title="Кино | Жанровое",Шокирующее
+http://stream.mcquack.net/75/index.m3u8
+#EXTINF:-1 group-title="Кино | Жанровое",Классика Кино
+https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы",Киносерия
+https://stream8.cinerama.uz/1235/index.m3u8
+#EXTINF:-1 group-title="Сериалы",Русский детектив
+http://stream.mcquack.net/204/index.m3u8
+#EXTINF:-1 group-title="Сериалы",НТВ Сериал
+https://cdn.ntv.ru/th_serial/index.m3u8
+#EXTINF:-1 group-title="Сериалы",Viju+ Serial
+http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 group-title="Сериалы",Amedia 1
+http://stream.mcquack.net/117/index.m3u8
+#EXTINF:-1 group-title="Сериалы",Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1 group-title="Сериалы",Amedia Premium
+http://stream.mcquack.net/151/index.m3u8
+#EXTINF:-1 group-title="Сериалы",Start Air
+http://stream.mcquack.net/128/index.m3u8
